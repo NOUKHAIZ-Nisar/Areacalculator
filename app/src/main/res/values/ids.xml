@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="answer" type="id">answer</item>
+    <item name="width" type="id">width</item>
+</resources>
